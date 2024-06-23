@@ -1,0 +1,44 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Sources/Zotero",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "formatted-citation",
+      "cslStyle": "gost-r-7-0-5-2008-numeric"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "ZoteroWeb",
+      "outputPathTemplate": "Sources/Zotero/{{title}}.md",
+      "imageOutputPathTemplate": "Extras/Images/ZoteroAttach/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "OV2/Extra/ZoteroWeb.md",
+      "cslStyle": "gost-r-7-0-5-2008-numeric"
+    },
+    {
+      "name": "ZoteroArticle",
+      "outputPathTemplate": "Sources/Zotero/{{title}}.md",
+      "imageOutputPathTemplate": "Extras/Images/ZoteroAttach/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "OV2/Extra/ZoteroArticle.md",
+      "cslStyle": "gost-r-7-0-5-2008-numeric"
+    },
+    {
+      "name": "ZoteroBook",
+      "outputPathTemplate": "Sources/Zotero/{{title}}.md",
+      "imageOutputPathTemplate": "Extras/Images/ZoteroAttach/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "OV2/Extra/ZoteroBook.md",
+      "cslStyle": "gost-r-7-0-5-2008-numeric"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

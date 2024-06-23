@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "07d810d1acd72d74",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2ca1aaf9d4c18f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7802d0fcd9ba7dde",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c0ca8d5a78969fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c8bba3ebc6dd37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb45af59c63588ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e74d22c82c2d02e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b9f12176de4b8ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5e73d6906d285424",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cc83b1b38b2cef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b538d85507f510",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f180d186bcc2b46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dcb18232bf58716",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f70cdd240b2dbdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c581c5128a66cd4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "eb45af59c63588ee",
+  "lastOpenFiles": [
+    "OV2/TechInfo/Большие данные.md",
+    "OV2/МММППР_2сем/Теория/Методологические основы формирования инструментальных средств обоснования управленческих решений.md",
+    "OV2/Diploma/Конфа/Мат тренажеры.md",
+    "OV2/TechInfo/Заметки по тестированию.md",
+    "OV2/TechInfo/Архитектура систем.md",
+    "Pasted image 20240516025352.png",
+    "OV2/Digital Garden.md",
+    "OV2/Учёба/Проект Дьяч Май.md",
+    "OV2/МММППР_2сем/Теория",
+    "OV2/МММППР_2сем",
+    "OV2/Учёба",
+    "glpat-4c2cg__71ocMcLzpByho.md",
+    "Pasted image 20240516025334.png",
+    "OV2/TechInfo.md",
+    "OV2/TechInfo",
+    "OV2/Diploma/Конфа/Требования.md",
+    "OV2/Diploma/Конфа/Конференция.md",
+    "Sources/Zotero/Euclidea - Apps on Google Play.md",
+    "Sources/Zotero/Приложения в Google Play – Пифагория.md",
+    "Sources/Zotero",
+    "Sources",
+    "OV2/Diploma/Конфа",
+    "~$1.docx",
+    "1.docx",
+    "OV2/Документ Microsoft Word.docx",
+    "OV2/LifeNotes/Дни рождения.md",
+    "OV2/Extra/ZoteroWeb.md",
+    "OV2/Extra/ZoteroArticle.md",
+    "OV2/Extra/ZoteroBook.md",
+    "OV2/Без названия 1.md",
+    "Welcome.md"
+  ]
+}
