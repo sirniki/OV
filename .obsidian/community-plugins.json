@@ -4,5 +4,7 @@
   "oz-image-plugin",
   "obsidian-dictionary-plugin",
   "quick-latex",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-pandoc",
+  "obsidian-pandoc-reference-list"
 ]
