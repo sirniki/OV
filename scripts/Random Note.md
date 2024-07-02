@@ -4,7 +4,7 @@
 >И, да, нужно оставить все кавычки, меняем только название: '"Ваша папка"'
 
 ```dataviewjs 
-let docs = dv.pages('"Межкультурное взаим"'); 
+let docs = dv.pages('"Folder"'); 
 let length = docs.length; 
 let numberToReturn = 1; 
 var randos = getRandos(docs, length, numberToReturn); 
