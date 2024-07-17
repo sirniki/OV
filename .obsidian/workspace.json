@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Cypress/Base commands/Base commands embed.md",
+                "file": "IT/Cypress/Base commands/eslint.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Cypress/Base commands/Base commands embed.md",
+                "file": "IT/Cypress/Base commands/eslint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Cypress/Base commands/Base commands embed.md",
+                "file": "IT/Cypress/Base commands/eslint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Cypress/Base commands/Base commands embed.md"
+                "file": "IT/Cypress/Base commands/eslint.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "b81dbea8ca6cf0cd",
   "lastOpenFiles": [
-    "IT/Cypress/Base commands/eslint.md",
     "IT/Cypress/Base commands/Base commands table.md",
+    "IT/Cypress/Base commands/eslint.md",
+    "IT/Cypress/To learn.md",
     "IT/Cypress/Base commands/Base commands embed.md",
     "IT/Cypress/Base commands",
     "scripts/Random Note.md",
@@ -188,7 +189,6 @@
     "UniStudy/Межкультурное взаим/52. Требования и необходимые условия успешного делегирования.md",
     "UniStudy/Межкультурное взаим/Все.docx",
     "UniStudy/Межкультурное взаим/34. Культура и невербальное общение. проксемика и тактильное взаимодействие в контексте культуры. Чувство времени и межличностная синхронность.md",
-    "UniStudy/Межкультурное взаим/33. Культура и вербальное общение. стили вербальной коммуникации..md",
     "UniStudy/Межкультурное взаим/16. Национально-психологические особенности. понятие, виды, свойства.docx",
     "Межкультурное взаим/~$з названия.docx",
     "Межкультурное взаим/Без названия.docx",
