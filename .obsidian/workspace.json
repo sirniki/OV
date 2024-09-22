@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Cypress/Base commands/eslint.md",
+                "file": "IT/Cypress/Base commands/Base commands embed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfcdf936b4e836c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Cypress/Приоритет запуска тестов.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Cypress/Base commands/eslint.md",
+                "file": "IT/Cypress/Приоритет запуска тестов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Cypress/Base commands/eslint.md",
+                "file": "IT/Cypress/Приоритет запуска тестов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Cypress/Base commands/eslint.md"
+                "file": "IT/Cypress/Приоритет запуска тестов.md"
               }
             }
           },
@@ -154,14 +167,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b81dbea8ca6cf0cd",
+  "active": "bfcdf936b4e836c2",
   "lastOpenFiles": [
+    "IT/Cypress/Base commands/Base commands embed.md",
+    "IT/Cypress/Приоритет запуска тестов.md",
+    "scripts/Random Note.md",
+    "IT/Cypress/To learn.md",
     "IT/Cypress/Base commands/Base commands table.md",
     "IT/Cypress/Base commands/eslint.md",
-    "IT/Cypress/To learn.md",
-    "IT/Cypress/Base commands/Base commands embed.md",
     "IT/Cypress/Base commands",
-    "scripts/Random Note.md",
     "IT/Cypress",
     "IT",
     "UniStudy",
@@ -188,7 +202,6 @@
     "UniStudy/Межкультурное взаим/51. Основные привила (техника) делегирования полномочий..md",
     "UniStudy/Межкультурное взаим/52. Требования и необходимые условия успешного делегирования.md",
     "UniStudy/Межкультурное взаим/Все.docx",
-    "UniStudy/Межкультурное взаим/34. Культура и невербальное общение. проксемика и тактильное взаимодействие в контексте культуры. Чувство времени и межличностная синхронность.md",
     "UniStudy/Межкультурное взаим/16. Национально-психологические особенности. понятие, виды, свойства.docx",
     "Межкультурное взаим/~$з названия.docx",
     "Межкультурное взаим/Без названия.docx",
